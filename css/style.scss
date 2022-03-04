@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@import 'sass/colors';
+@import 'sass/layout';
+@import 'sass/spacing';
+@import 'sass/typography';
+
+body{
+    width: 100%;
+    background-color: $black-dark;
+    
+}
+
+/*Classer auxiliares*/
+.border{
+    border: 1px solid red;
+}
+
+
+
+

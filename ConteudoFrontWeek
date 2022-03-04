@@ -1,0 +1,79 @@
+Ui Design
+
+Projetar boas interfaces
+
+Conteúdo
+
+1) Como aprender UI? Dev Precisa saber? 
+2) Pesquisas & referências
+3) Pagemap
+4) Grids
+5) Tipografia
+6) UI concept final
+
+
+O que precisa um bom CV?
+- Não ter erro em português
+- Não precisa de um curriculo artistico, faça um resume.pdf simples e objetivo.
+- Não colocar gráficos, ou então 70% de JS
+- Experiência
+  - Não se trata de emprego 
+  - Se trata de você mostrar o que você converteu de teoria para a prática.
+- Graduação, cursos e treinamentos
+
+Linkedin
+ - Bio bem escrita
+ - Cursos: review pequenos
+ - Quais experiências: reviews pequenos
+ - Links para trabalhos
+
+Github
+ - Projetos práticos: Pequenos ou grandes
+ - Projetos com boas descrições
+
+
+
+Tipografia Titulos
+
+- Para tipografias maiores é indicado um line height menor
+- Para tipografias menos é indicado um line height maiores
+
+H1 - 72px  
+H2 - 56px
+H3 - 40px
+H4 - 32px
+H5 - 24px
+H6 - 18px
+
+
+Ferramentas para variações de cores
+https://hihayk.github.io/scale/#4/6/50/80/-51/67/20/14/1D9A6C/29/154/108/white
+(Não esquecer de Zerar o Light colors hue angle)
+
+//Aula 2 
+
+#1 - Fortalecer conhecimentos relacionados a tipografia, um dos bons contéudos referente ao assunto está na publição do Nasser Yousef ali
+
+O que é CSS? 
+Uma linguagem de estilização
+
+Padrão de partes SCSS
+-> Cores
+-> Tipografia
+-> Spacing
+-> Layout
+
+pq fazer a divisão dos arquivos? 
+
+Para ficar mais organizados, facilitando na hora desenvolver.
+
+Pq utilizar o SASS? 
+Para obter uma maior compatibilidade do nosso código com os navegadores
+
+
+
+
+
+
+
+    
